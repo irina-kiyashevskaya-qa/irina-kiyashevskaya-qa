@@ -78,7 +78,7 @@
 
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irina-kiyashevskaya-qa/irina-kiyashevskaya-qa/refs/heads/main/stepik.png.jpg)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irina-kiyashevskaya-qa/irina-kiyashevskaya-qa/refs/heads/main/diplom.png.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/irina-kiyashevskaya-qa/irina-kiyashevskaya-qa/refs/heads/main/stepik.png.jpg)
 [<img src="/recommendation.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/irina-kiyashevskaya-qa/irina-kiyashevskaya-qa/refs/heads/main/recommendation.png.jpg)
 <br>
